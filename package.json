@@ -1,0 +1,26 @@
+{
+  "name": "generator-react-component",
+  "version": "1.0.0",
+  "description": "Generator for creating React components with related files.",
+  "homepage": "",
+  "author": {
+    "name": "flyingace",
+    "email": "dc@davidcameron.biz",
+    "url": ""
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "React",
+    "Yeoman",
+    "Generator",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yeoman-generator": "^5.3.0",
+    "yosay": "^2.0.2"
+  }
+}
